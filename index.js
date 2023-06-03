@@ -1,7 +1,9 @@
-import express from 'express';
+const express = require('express');
+const cors = require('cors');
+// import express from 'express';
 // import http from 'http';
 // import path from 'path';
-import cors from 'cors';
+// import cors from 'cors';
 // import bodyParser from 'body-parser';
 
 const app = express();
